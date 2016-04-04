@@ -4,13 +4,13 @@ Template
 Device manufacturer: -
 Device age: -
 Device's primary use: -
-Operating system: -
-RAM: -
-Permanent storage: -
-CPU vendor: -
-CPU model: -
-CPU clock frequency: -
-Wireless chipset vendor: -
-Wireless chipset model: -
-Wired chipset vendor: -
+Operating system: - Ubuntu linux 14.04
+RAM: - 16 GB
+Permanent storage: - 
+CPU vendor: - GenuineIntel	
+CPU model: - 44
+CPU clock frequency: - 2.65GHz		
+Wireless chipset vendor: - No wireless extensions.
+Wireless chipset model: - No wireless extensions.
+Wired chipset vendor: - 
 Wired chipset model: -
